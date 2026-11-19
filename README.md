@@ -20,7 +20,7 @@
 Controlling robotic hand joints requires balancing response speed with strict stability to prevent mechanical overshoot during delicate grasping tasks. This project models the electromechanical dynamics of a robotic hand actuator as a continuous-time transfer function, designs a tuned feedback controller in MATLAB, and validates the closed-loop performance in Simulink.
 
 - **Institution:** Saba University — Faculty of Engineering (Mechatronics Engineering)
-- **Authors:** Afnan Aref, Abeer Saleh
+- **Authors:** Afnan Aref
 - **Supervision:** Dr. Marwan & Eng. Alia'a Jaghman
 
 ---
